@@ -1,6 +1,6 @@
 # Negative to Positive Co-learning with Aggressive Modality Dropout
 
-This repo contains the code used in the research project [Negative Co-learning to Positive Co-learning with Aggresive Modality Drop](https://drive.google.com/file/d/1bwqcazWJhACQkEVYfpYC_pG_IeetzBvR/view). 
+This repo contains the code used in the research project [Negative Co-learning to Positive Co-learning with Aggressive Modality Drop](https://drive.google.com/file/d/1bwqcazWJhACQkEVYfpYC_pG_IeetzBvR/view). 
 We find that by using aggressive modality
 dropout we are able to reverse negative
 co-learning (NCL) to positive co-learning
